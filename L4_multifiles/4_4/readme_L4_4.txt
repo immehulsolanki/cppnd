@@ -1,0 +1,1 @@
+read CMAke and..ipynb and do as directed.

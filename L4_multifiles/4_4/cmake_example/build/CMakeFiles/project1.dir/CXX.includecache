@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_ADesktop/linux/vs_cpp_linux/projec1/L4_multifiles/4_4/cmake_example/src/increment_and_sum.cpp
+vect_add_one.h
+/media/sf_ADesktop/linux/vs_cpp_linux/projec1/L4_multifiles/4_4/cmake_example/src/vect_add_one.h
+
+/media/sf_ADesktop/linux/vs_cpp_linux/projec1/L4_multifiles/4_4/cmake_example/src/increment_and_sum.h
+vector
+-
+
+/media/sf_ADesktop/linux/vs_cpp_linux/projec1/L4_multifiles/4_4/cmake_example/src/main.cpp
+iostream
+-
+vector
+-
+increment_and_sum.h
+/media/sf_ADesktop/linux/vs_cpp_linux/projec1/L4_multifiles/4_4/cmake_example/src/increment_and_sum.h
+
+/media/sf_ADesktop/linux/vs_cpp_linux/projec1/L4_multifiles/4_4/cmake_example/src/vect_add_one.cpp
+vect_add_one.h
+/media/sf_ADesktop/linux/vs_cpp_linux/projec1/L4_multifiles/4_4/cmake_example/src/vect_add_one.h
+
+/media/sf_ADesktop/linux/vs_cpp_linux/projec1/L4_multifiles/4_4/cmake_example/src/vect_add_one.h
+vector
+-
+
