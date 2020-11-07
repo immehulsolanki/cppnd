@@ -49,6 +49,10 @@ int main()
 
     // Print out the position and color of each car.
     car_1.PrintCarData();
+
+    car_2.IncrementDistance();
     car_2.PrintCarData();
+
+    car_3.IncrementDistance();
     car_3.PrintCarData();
 }
