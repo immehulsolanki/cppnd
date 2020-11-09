@@ -48,7 +48,7 @@ Project5: Capstone Project: Build Your Own C++ Application
 
 ## Why on github?
 
-Well, I have two local machines and I work on both alternately, So, to manage my latest notes on both machines, git online repository helps me very seamless file synchronisation rather manual approach. I could have made my repository profit, but making it public helps me to find new friends so we can share knowledge and have fun!
+Well, I have two local machines and I work on both alternately, So, to manage my latest notes on both machines, git online repository helps me very seamless file synchronisation rather manual approach. I could have made my repository private, but making it public helps me to find new friends so we can share knowledge and have fun!
 
 ## License, copyright etc...
 
